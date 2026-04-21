@@ -1,4 +1,11 @@
-# flutter_application_1
+# navigationPage
 
 A new Flutter project.
-# navigationPage
+
+## Screenshots
+
+### First Screen
+![First Screen](assets/firstScreen.png)
+
+### Second Screen
+![Second Screen](assets/secondScreen.png)
